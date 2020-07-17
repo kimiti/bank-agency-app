@@ -20,7 +20,7 @@ using firebase as a backend.
 <img  align="left" src="/screenshots/Screenshot_1594960105.png" width="250">
 <img  align="left"  src="/screenshots/Screenshot_1594960111.png" width="250">
 <img  align="left"  src="/screenshots/Screenshot_1594960117.png" width="250">
-<img src="/screenshots/Screenshot_1594960124.png" width="200">
+<img src="/screenshots/Screenshot_1594960124.png" width="250">
 
 A new Flutter project.
 
