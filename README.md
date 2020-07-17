@@ -1,6 +1,7 @@
 # shop_app
 
-Flutter mobile app for Grace Community Center using firebase as a backend.
+Flutter mobile app for bank agents, for better record keeping and automatic calculation of their records providing statments of their past records
+using firebase as a backend.
 
 ## features
 
@@ -8,9 +9,9 @@ Flutter mobile app for Grace Community Center using firebase as a backend.
 - [x] login \$ registration
 - [x] record total from banks
 - [x] automatic calculations
-- [ ] detailed documentations of current records
-- [ ] detailed documentations all past records
-- [ ] time record feature
+- [x] detailed documentations of current records
+- [x] detailed documentations all past records
+- [x] time record feature
 
 ## screenshots
 
