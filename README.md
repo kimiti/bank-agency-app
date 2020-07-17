@@ -1,5 +1,26 @@
 # shop_app
 
+Flutter mobile app for Grace Community Center using firebase as a backend.
+
+## features
+
+- [x] firebase database
+- [x] login \$ registration
+- [x] record total from banks
+- [x] automatic calculations
+- [ ] detailed documentations of current records
+- [ ] detailed documentations all past records
+- [ ] time record feature
+
+## screenshots
+
+<img  align="left" src="/screenshots/Screenshot_1594959954.png" width="200">
+<img  align="left"  src="/screenshots/Screenshot_1594959959.png" width="200">
+<img  align="left" src="/screenshots/Screenshot_1594960105.png" width="200">
+<img  align="left"  src="/screenshots/Screenshot_1594960111.png" width="200">
+<img  align="left"  src="/screenshots/Screenshot_1594960117.png" width="200">
+<img src="/screenshots/Screenshot_1594960124.png" width="200">
+
 A new Flutter project.
 
 ## Getting Started
