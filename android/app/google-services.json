@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100030997007",
+    "firebase_url": "https://dimecapital-ad4a3.firebaseio.com",
+    "project_id": "dimecapital-ad4a3",
+    "storage_bucket": "dimecapital-ad4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100030997007:android:81bce882f2690294ebf97a",
+        "android_client_info": {
+          "package_name": "com.janetkimiti.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100030997007-15ntqg09755fne86t2d2p99gug90nhfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.janetkimiti.shop_app",
+            "certificate_hash": "592f1b53c8351f6cd24ba4c3c4cd7ac4808b222b"
+          }
+        },
+        {
+          "client_id": "100030997007-uhl845kav9kr8g6lftjl4cqjjp2dtkem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBon-pWq7zNswC08hReoANHhD6zzW7YJl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100030997007-uhl845kav9kr8g6lftjl4cqjjp2dtkem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
